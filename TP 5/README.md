@@ -106,5 +106,5 @@ Mar 08 02:15:51 linux.tp5.b1 systemd[1]: Stopping "Service pour faire tourner yt
 🌟**BONUS** : get fancy. Livrez moi un gif ou un [asciinema](https://asciinema.org/) (PS : c'est le feu asciinema) de votre service en action, où on voit les URLs de vidéos disparaître, et les fichiers apparaître dans le fichier de destination
 ```
 watch -n0.5 cat /srv/yt/playlist.txt | lolcat
-[à regarder jusqu'au bout, il y a un TGV qui passe à la fin ! 👀](https://asciinema.org/a/b8cNpw3FAEUvVSVXz4lYKgy27)
 ```
+[à regarder jusqu'au bout, il y a un TGV qui passe à la fin ! 👀](https://asciinema.org/a/b8cNpw3FAEUvVSVXz4lYKgy27)
